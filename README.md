@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Husein1202
-- 👀 I’m interested in Ui/ux, graphic and motion design
-- 🌱 I’m currently learning Ui/ux
+- 👋 Hi, I’m Husein Adam
+- 👀 I’m interested in UI/UX, graphic and motion design
+- 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
